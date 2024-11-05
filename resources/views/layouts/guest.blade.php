@@ -13,13 +13,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/back/images/favicon.ico') }}">
 
 
     <!-- App css -->
-    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css"/>
-    <link href="{{ asset('assets/css/icons.min.css') }}" rel="stylesheet" type="text/css"/>
-    <link href="{{ asset('assets/css/app.min.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/back/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/back/css/icons.min.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('assets/back/css/app.min.css') }}" rel="stylesheet" type="text/css"/>
 
 </head>
 
@@ -36,7 +36,7 @@
                             <div class="card-body p-0 bg-black auth-header-box rounded-top">
                                 <div class="text-center p-3">
                                     <a href="index-2.html" class="logo logo-admin">
-                                        <img src="{{ asset('assets/images/logo-sm.png') }}" height="50" alt="logo"
+                                        <img src="{{ asset('assets/back/images/logo-sm.png') }}" height="50" alt="logo"
                                              class="auth-logo">
                                     </a>
                                     <h4 class="mt-3 mb-1 fw-semibold text-white fs-18">Let's Get Started Rizz</h4>

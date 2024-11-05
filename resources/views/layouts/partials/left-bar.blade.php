@@ -45,10 +45,50 @@
                         <div class="collapse" id="sidebarDashboards">
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="index-2.html">{{ __('messages.service_list') }}</a>
+                                    <a class="nav-link" href="#">{{ __('messages.service_list') }}</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="ecommerce-index.html">{{ __('messages.create_service') }}</a>
+                                    <a class="nav-link" href="#">{{ __('messages.create_service') }}</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sidebarProjects" role="button" aria-expanded="false" aria-controls="sidebarProjects">
+                            <i class="iconoir-home-simple menu-icon"></i>
+                            <span>{{ __('messages.projects') }}</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sidebarMessages" role="button" aria-expanded="false" aria-controls="sidebarMessages">
+                            <i class="iconoir-home-simple menu-icon"></i>
+                            <span>{{ __('messages.messages') }}</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sidebarInvoices" role="button" aria-expanded="false" aria-controls="sidebarInvoices">
+                            <i class="iconoir-home-simple menu-icon"></i>
+                            <span>{{ __('messages.invoices') }}</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sidebarSettings" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="sidebarSettings">
+                            <i class="iconoir-home-simple menu-icon"></i>
+                            <span>{{ __('messages.settings') }}</span>
+                        </a>
+                        <div class="collapse" id="sidebarSettings">
+                            <ul class="nav flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">{{ __('messages.profile_settings') }}</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">{{ __('messages.notification_settings') }}</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">{{ __('messages.security_settings') }}</a>
                                 </li>
                             </ul>
                         </div>

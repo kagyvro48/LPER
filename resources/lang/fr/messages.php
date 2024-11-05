@@ -29,6 +29,12 @@ return [
     "create_service" => "Créer un service",
     "high_quality_app" => "est une application web de haute qualité.",
     "update" => "Mise à jour",
+    'projects' => 'Projets',
+    'messages' => 'Messages',
+    'invoices' => 'Demandes de services',
+    'profile_settings' => 'Paramètres du profil',
+    'notification_settings' => 'Paramètres de notification',
+    'security_settings' => 'Paramètres de sécurité',
 
     // Titre et métadonnées
     'title_default' => env("APP_NAME") . ' | Tableau de bord',

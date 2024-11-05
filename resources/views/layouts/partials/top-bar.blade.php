@@ -22,11 +22,11 @@
                 <li class="dropdown">
                     <a class="nav-link dropdown-toggle arrow-none nav-icon" data-bs-toggle="dropdown" href="#" role="button"
                        aria-haspopup="false" aria-expanded="false">
-                        <img src="{{ asset('assets/images/flags/us_flag.jpg') }}" alt="" class="thumb-sm rounded-circle">
+                        <img src="{{ asset('assets/back/images/flags/us_flag.jpg') }}" alt="" class="thumb-sm rounded-circle">
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#"><img src="{{ asset('assets/images/flags/us_flag.jpg') }}" alt="" height="15" class="me-2">{{ __('messages.english') }}</a>
-                        <a class="dropdown-item" href="#"><img src="{{ asset('assets/images/flags/french_flag.jpg') }}" alt="" height="15" class="me-2">{{ __('messages.french') }}</a>
+                        <a class="dropdown-item" href="#"><img src="{{ asset('assets/back/images/flags/us_flag.jpg') }}" alt="" height="15" class="me-2">{{ __('messages.english') }}</a>
+                        <a class="dropdown-item" href="#"><img src="{{ asset('assets/back/images/flags/french_flag.jpg') }}" alt="" height="15" class="me-2">{{ __('messages.french') }}</a>
                     </div>
                 </li><!--end topbar-language-->
                 <li class="topbar-item">
@@ -38,12 +38,12 @@
                 <li class="dropdown topbar-item">
                     <a class="nav-link dropdown-toggle arrow-none nav-icon" data-bs-toggle="dropdown" href="#" role="button"
                        aria-haspopup="false" aria-expanded="false">
-                        <img src="{{ asset('assets/images/users/avatar-1.jpg') }}" alt="" class="thumb-lg rounded-circle">
+                        <img src="{{ asset('assets/back/images/users/avatar-1.jpg') }}" alt="" class="thumb-lg rounded-circle">
                     </a>
                     <div class="dropdown-menu dropdown-menu-end py-0">
                         <div class="d-flex align-items-center dropdown-item py-2 bg-secondary-subtle">
                             <div class="flex-shrink-0">
-                                <img src="{{ asset('assets/images/users/avatar-1.jpg') }}" alt="" class="thumb-md rounded-circle">
+                                <img src="{{ asset('assets/back/images/users/avatar-1.jpg') }}" alt="" class="thumb-md rounded-circle">
                             </div>
                             <div class="flex-grow-1 ms-2 text-truncate align-self-center">
                                 <h6 class="my-0 fw-medium text-dark fs-13">William Martin</h6>
