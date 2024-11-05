@@ -39,8 +39,8 @@
                                         <img src="{{ asset('assets/back/images/logo-sm.png') }}" height="50" alt="logo"
                                              class="auth-logo">
                                     </a>
-                                    <h4 class="mt-3 mb-1 fw-semibold text-white fs-18">Let's Get Started Rizz</h4>
-                                    <p class="text-muted fw-medium mb-0">Sign in to continue to Rizz.</p>
+                                    <h4 class="mt-3 mb-1 fw-semibold text-white fs-18">Bienvenue</h4>
+                                    <p class="text-muted fw-medium mb-0">Connectez-vous pour continuer sur {{ env("APP_NAME") }}.</p>
                                 </div>
                             </div>
                             <div class="card-body pt-0">

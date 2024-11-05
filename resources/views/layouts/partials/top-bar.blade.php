@@ -9,7 +9,7 @@
                     </button>
                 </li>
                 <li class="mx-3 welcome-text">
-                    <h3 class="mb-0 fw-bold text-truncate">{{ __("messages.good_morning") }}, James!</h3>
+                    <h3 class="mb-0 fw-bold text-truncate">{{ __("messages.good_morning") }}, {{ auth()->user()->name }}!</h3>
                 </li>
             </ul>
             <ul class="topbar-item list-unstyled d-inline-flex align-items-center mb-0">
@@ -59,7 +59,13 @@
                         <a class="dropdown-item" href="{{ asset('pages-profile.html') }}"><i class="las la-lock fs-18 me-1 align-text-bottom"></i> {{ __('messages.security') }}</a>
                         <a class="dropdown-item" href="{{ asset('pages-faq.html') }}"><i class="las la-question-circle fs-18 me-1 align-text-bottom"></i> {{ __('messages.help_center') }}</a>
                         <div class="dropdown-divider mb-0"></div>
-                        <a class="dropdown-item text-danger" href="{{ asset('auth-login.html') }}"><i class="las la-power-off fs-18 me-1 align-text-bottom"></i> {{ __('messages.logout') }}</a>
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                            @csrf
+                        </form>
+
+                        <a class="dropdown-item text-danger" href="#" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                            <i class="las la-power-off fs-18 me-1 align-text-bottom"></i> {{ __('messages.logout') }}
+                        </a>
                     </div>
                 </li>
             </ul><!--end topbar-nav-->

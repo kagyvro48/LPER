@@ -4,11 +4,7 @@
     <div class="brand">
         <a href="{{ route('dashboard') }}" class="logo">
             <span>
-                <img src="{{ asset('assets/images/logo-sm.png') }}" alt="logo-small" class="logo-sm">
-            </span>
-            <span>
-                <img src="{{ asset('assets/images/logo-light.png') }}" alt="logo-large" class="logo-lg logo-light">
-                <img src="{{ asset('assets/images/logo-dark.png') }}" alt="logo-large" class="logo-lg logo-dark">
+                <img src="{{ asset('assets/back/images/logo-sm.png') }}" alt="logo-small" class="logo-sm">
             </span>
         </a>
     </div>
@@ -98,9 +94,8 @@
                 <!-- Update message section -->
                 <div class="update-msg text-center">
                     <div class="d-flex justify-content-center align-items-center thumb-lg update-icon-box rounded-circle mx-auto">
-                        <i class="iconoir-peace-hand h3 align-self-center mb-0 text-primary"></i>
+                        <i class="fa fa-refresh h3 align-self-center mb-0 text-primary"></i>
                     </div>
-                    <h5 class="mt-3">BENKY Themes</h5>
                     <p class="mb-3 text-muted">{{ env("APP_NAME") }} {{ __('messages.high_quality_app') }}</p>
                     <a href="javascript: void(0);" class="btn text-primary shadow-sm rounded-pill">{{ __('messages.update') }}</a>
                 </div>
