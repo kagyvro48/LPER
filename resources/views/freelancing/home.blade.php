@@ -6,7 +6,7 @@
 <head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Hiredio - Job Board & Freelance Marketplace HTML Template</title>
+		<title>Lper - Accueil</title>
 		<link rel="icon" type="image/x-icon" href="assets/front/img/favicon.png">
 
 		<!-- All Plugins -->
@@ -107,7 +107,7 @@
 					<div class="row justify-content-between align-items-center g-4">
 						<div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
 							<div class="position-relative mb-5">
-							  <h1 class="fw-normal">Embauchez les meilleurs freelances pour vos <span class="text-success">projets de rêve</span></h1>
+							  <h1 class="fw-normal">Embauchez les meilleurs Lpers pour vos <span class="text-success">projets de rêve</span></h1>
 							  <p class="banner-subtitle fw-light">Rejoignez une communauté de professionnels où les opportunités sont illimitées et où la collaboration est la clé du succès.</p>
 							</div>
 							<div class="smartSearch">
@@ -442,7 +442,7 @@
 
 
 
-			<!-- =========================== Start High Rated Freelancers =========================== -->
+			<!-- =========================== Start High Rated Lpers =========================== -->
             <section class="bg-lighten">
                 <div class="container">
 
@@ -450,9 +450,9 @@
                         <div class="col-xl-8 col-lg-9 col-md-11 col-sm-12">
                             <div class="moder-heading">
                                 <div class="subtitleHeading-wrap">
-                                    <h6 class="subtitle-heading">Freelancers en Vedette</h6>
+                                    <h6 class="subtitle-heading">Lpers en Vedette</h6>
                                 </div>
-                                <h2 class="main-heading">Freelancer Très Évalué</h2>
+                                <h2 class="main-heading">Lper Très Évalué</h2>
                             </div>
                         </div>
                     </div>
@@ -636,7 +636,7 @@
                     </div>
                 </div>
             </section>
-			<!-- =========================== End High Rated Freelancers ============================ -->
+			<!-- =========================== End High Rated Lpers ============================ -->
 
 
 			<!-- =========================== Start Categories =========================== -->
@@ -856,7 +856,7 @@
                                                 </div>
                                                 <div class="revws-desc">
                                                     <h5 class="reviewsTitle">"Une Plateforme Superbe"</h5>
-                                                    <p class="text">J'adore Hiredio ! Chaque fois que j'ai besoin de trouver un emploi, Hiredio est mon premier choix ! Je ne chercherais pas ailleurs.</p>
+                                                    <p class="text">J'adore Lper ! Chaque fois que j'ai besoin de trouver un emploi, Lper est mon premier choix ! Je ne chercherais pas ailleurs.</p>
                                                 </div>
                                             </div>
 
@@ -926,7 +926,7 @@
                                                 </div>
                                                 <div class="revws-desc">
                                                     <h5 class="reviewsTitle">"Une Plateforme Superbe"</h5>
-                                                    <p class="text">Hiredio est la meilleure application de recherche d'emploi actuellement... elle vous protège également des spammeurs, donc les seuls e-mails que je reçois sont ceux de...</p>
+                                                    <p class="text">Lper est la meilleure application de recherche d'emploi actuellement... elle vous protège également des spammeurs, donc les seuls e-mails que je reçois sont ceux de...</p>
                                                 </div>
                                             </div>
 
@@ -961,7 +961,7 @@
                                                 </div>
                                                 <div class="revws-desc">
                                                     <h5 class="reviewsTitle">"Une Plateforme Superbe"</h5>
-                                                    <p class="text">J'adore cette application Hiredio. Elle est plus légitime que les autres avec publicité. Une fois que j'ai téléchargé mon CV, les employeurs...</p>
+                                                    <p class="text">J'adore cette application Lper. Elle est plus légitime que les autres avec publicité. Une fois que j'ai téléchargé mon CV, les employeurs...</p>
                                                 </div>
                                             </div>
 
@@ -996,7 +996,7 @@
                                                 </div>
                                                 <div class="revws-desc">
                                                     <h5 class="reviewsTitle">"Une Plateforme Superbe"</h5>
-                                                    <p class="text">Dans l'ensemble, l'application Hiredio est un outil puissant pour quiconque sur le marché de l'emploi. Sa fiabilité, son vaste choix d'offres d'emploi et sa facilité d'utilisation...</p>
+                                                    <p class="text">Dans l'ensemble, l'application Lper est un outil puissant pour quiconque sur le marché de l'emploi. Sa fiabilité, son vaste choix d'offres d'emploi et sa facilité d'utilisation...</p>
                                                 </div>
                                             </div>
 
@@ -1034,7 +1034,7 @@
                             <div class="servicesTags">
 
                                 <div class="headingBloc d-block mb-4">
-                                    <div class="d-flex mb-2"><span class="badge badge-danger">Choisissez Hiredio</span></div>
+                                    <div class="d-flex mb-2"><span class="badge badge-danger">Choisissez Lper</span></div>
                                     <h2 class="fw-normal mb-3">Faciliter la collaboration et la croissance grâce à un <span class="text-primary">placement stratégique de talents</span></h2>
                                     <p class="subtitle">Il existe de nombreuses variations de passages de Lorem Ipsum disponibles, mais la majorité a subi des modifications sous une forme ou une autre, par l'humour injecté.</p>
                                 </div>
@@ -1061,7 +1061,7 @@
 
                                     <div class="clorioAchivement me-lg-5">
                                         <h2 class="fw-normal">$<span class="text-seegreen ctr">80</span>M</h2>
-                                        <p class="subtitle">Rémunéré aux Freelancers</p>
+                                        <p class="subtitle">Rémunéré aux Lpers</p>
                                     </div>
 
                                 </div>
@@ -1406,7 +1406,7 @@
                                 <div class="d-flex align-items-center justify-content-center justify-content-md-between gap-3">
 
                                     <div class="copyrightCaps">
-                                        <p class="copyright-text">© Hiredio. 2024 Themezhub. Tous droits réservés.</p>
+                                        <p class="copyright-text">© Lper. 2024 Themezhub. Tous droits réservés.</p>
                                     </div>
 
                                     <div class="d-flex align-items-center justify-content-start gap-2">

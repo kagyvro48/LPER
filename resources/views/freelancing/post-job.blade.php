@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hiredio - Job Board & Freelance Marketplace HTML Template</title>
+    <title>Lper - publier une offre</title>
     <link rel="icon" type="image/x-icon" href="assets/front/img/favicon.png">
 
     <!-- All Plugins -->
